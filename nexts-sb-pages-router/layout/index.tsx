@@ -42,6 +42,9 @@ const RootLayout = ({
               <li>
                 <Link href="/about">About</Link>
               </li>
+              <li>
+                <Link href="/notes/server">Notes</Link>
+              </li>
             </ul>
           </div>
         </header>
